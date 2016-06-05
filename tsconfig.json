@@ -39,8 +39,11 @@
     "test/create_router_state.spec.ts",
     "test/create_url_tree.spec.ts",
     "test/router.spec.ts",
-    "typings/index.d.ts"
+    "typings/index.d.ts",
+
+    "example/app/main.ts",
+    "example/app/main.1.ts",
+    "example/app/main.2.ts",
+    "example/app/main.3.ts"
   ]
 }
-
-
